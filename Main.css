@@ -1,0 +1,45 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header{
+    background-color: gray;
+    height: 118px;
+    width: 1024px;
+    text-align: center;
+}
+nav{
+    background-color: salmon;
+    height: 40px;
+    width: 1024px;
+    text-align: center;
+    padding-top: 20px;
+}
+main {
+    background-color: black;
+    height: 400px;
+    width: 1022px;
+    padding: 1px;
+
+}
+h1{
+padding: 40px;
+color: seashell;
+}
+a{
+    color: seashell;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+p{
+    color: blanchedalmond;
+    text-align: center;
+    padding: 40px;
+    font-size: 40px;
+}
